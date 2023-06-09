@@ -1,4 +1,4 @@
-# Bar-race-chart---poker
+# Bar-chart-race---poker
 Example of bar race chart showing poker championships won by each player over time. 
 
 # Installation
